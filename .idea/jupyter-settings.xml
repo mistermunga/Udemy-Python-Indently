@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="dd73017c281cfcf64606d742524a232949aa6e5ba89a5a28" />
+          <option name="urlString" value="http://127.0.0.1:8888/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="dd73017c281cfcf64606d742524a232949aa6e5ba89a5a28" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="dd73017c281cfcf64606d742524a232949aa6e5ba89a5a28" />
+          <option name="urlString" value="http://localhost:8888/notebooks/mechanical-analysis.ipynb" />
+          <authParams2>
+            <map>
+              <entry key="token" value="dd73017c281cfcf64606d742524a232949aa6e5ba89a5a28" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../en-garde/.idea/en-garde.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
